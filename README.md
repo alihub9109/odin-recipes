@@ -21,3 +21,4 @@ creamy-garlic-shrimp.html
 lemon-herb-salmon.html
 
 Each file is self-contained and ready to be used in a larger website or recipe app.
+
